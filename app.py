@@ -36,3 +36,5 @@ def predict(passenger: Passenger):
 
     return {"survived": int(prediction)}
 
+
+

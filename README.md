@@ -59,6 +59,9 @@ La documentación interactiva de la API está disponible en:
 URL pública:
 https://titanic-api-880026336002.europe-west1.run.app/docs
 
+URL health:
+https://titanic-api-880026336002.europe-west1.run.app/health
+
 ## Despliegue
 El servicio está desplegado en Google Cloud Run y se construye automáticamente desde GitHub utilizando Cloud Build.
 
