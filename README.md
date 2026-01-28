@@ -2,6 +2,8 @@
 
 Este proyecto implementa un modelo de Machine Learning entrenado con el dataset de Titanic y lo expone mediante una API REST utilizando FastAPI, desplegada en Google Cloud Run, sin docker,
 
+Accuracy en test: 0.810
+
 ## Descripción
 El objetivo es demostrar el ciclo completo de un modelo de datos:
 - Entrenamiento de modelo en Python
